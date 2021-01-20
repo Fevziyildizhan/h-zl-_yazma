@@ -1,0 +1,15 @@
+#text{
+    margin-left: 450px;
+    margin-top: 150px;
+}
+
+#word{
+    margin-left: 600px;
+    border: 1px solid rgba(20, 165, 165, 0.333);
+    margin-right: 600px;
+
+}
+
+#btn{
+    margin-left: 600px;
+}
